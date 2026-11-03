@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b08"/><stop offset="1" stop-color="#0b1a14"/></linearGradient></defs>
+<rect x="1" y="1" width="638" height="248" rx="14" fill="url(#g)" stroke="#05d9e8" stroke-opacity=".7" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="34" rx="14" fill="#05d9e8" fill-opacity=".12"/>
+<circle cx="24" cy="18" r="5" fill="#ff5f56"/>
+<circle cx="44" cy="18" r="5" fill="#ffbd2e"/>
+<circle cx="64" cy="18" r="5" fill="#27c93f"/>
+<text x="86" y="23" font-family="monospace" font-size="12" fill="#7fb89d">~/projects/secure-online-voting-system</text>
+<rect x="454" y="9" width="168" height="20" rx="10" fill="#05d9e8" fill-opacity=".2"/><text x="538.0" y="23" text-anchor="middle" font-family="monospace" font-size="11" fill="#05d9e8">SECURITY | RESEARCH</text>
+<text x="28" y="74" font-family="monospace" font-weight="bold" font-size="24" fill="#f0fff8">Secure Online Voting System</text>
+<text x="28" y="106" font-family="monospace" font-size="14" fill="#a7d4bf">Online voting platform with OTP-based voter</text>
+<text x="28" y="128" font-family="monospace" font-size="14" fill="#a7d4bf">authentication to prevent impersonation.</text>
+<text x="28" y="150" font-family="monospace" font-size="14" fill="#a7d4bf">Backed by my published IJSREM research paper.</text>
+<rect x="28" y="172" width="82" height="24" rx="12" fill="#05d9e8" fill-opacity=".14" stroke="#05d9e8" stroke-opacity=".6"/><text x="69.0" y="188" text-anchor="middle" font-family="monospace" font-size="12" fill="#05d9e8">OTP Auth</text>
+<rect x="118" y="172" width="82" height="24" rx="12" fill="#05d9e8" fill-opacity=".14" stroke="#05d9e8" stroke-opacity=".6"/><text x="159.0" y="188" text-anchor="middle" font-family="monospace" font-size="12" fill="#05d9e8">Security</text>
+<rect x="208" y="172" width="66" height="24" rx="12" fill="#05d9e8" fill-opacity=".14" stroke="#05d9e8" stroke-opacity=".6"/><text x="241.0" y="188" text-anchor="middle" font-family="monospace" font-size="12" fill="#05d9e8">Voting</text>
+<line x1="28" y1="212" x2="612" y2="212" stroke="#05d9e8" stroke-opacity=".25"/>
+<text x="28" y="234" font-family="monospace" font-size="12" fill="#05d9e8">github.com/CHINNAMGARIVASANTHKUMAR/secure-online-voting-system</text>
+<text x="612" y="234" text-anchor="end" font-family="monospace" font-size="12" fill="#7fb89d">view repo &#8594;</text></svg>
